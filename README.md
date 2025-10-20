@@ -1,16 +1,18 @@
-## Hi there 👋
+Just a student at the University of Tsukuba, currently studying computer science and stuff.  
+Also a web dev newbie.
 
-<!--
-**opentweense/opentweense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I code with
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,ruby,crystal,go,html,css,react,rails,neovim)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  <summary>My interests❤</summary>
+  
+  * NLP(Natural Language Processing) 📊
+  * Language Learning 📖
+  * Chess ♟️
+  <summary>Languages📖</summary>
+  
+  * Japanese :jp: (Native)
+  * English :uk: (Decent) 
+  * Spanish :es: (Okay)
